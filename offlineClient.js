@@ -50,4 +50,3 @@
 	window.OfflineClientInfo = new OfflineClient();
 	
 }());
-
