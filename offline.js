@@ -1,5 +1,5 @@
-﻿{
-	"version": 1690655841,
+{
+	"version": 1578557951,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,7 @@
 		"images/speechbubble-sheet0.png",
 		"images/boneh.png",
 		"images/bonev.png",
+		"images/gasterblast1.png",
 		"images/gasterblaster-sheet0.png",
 		"images/gasterblaster-sheet1.png",
 		"images/platform1.png",
@@ -39,7 +40,6 @@
 		"images/bonestabh.png",
 		"images/bonestabwarn.png",
 		"images/menubonebottom-sheet0.png",
-		"images/gasterblasthit.png",
 		"images/battlefont.png",
 		"images/sansfont.png",
 		"images/defaultfont.png",
