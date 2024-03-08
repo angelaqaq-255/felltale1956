@@ -1,0 +1,117 @@
+0,Sound,mus_zz_megalovania,0,,,,,,
+0,Sound,mus_birdsong,1,,,,,
+0,SansAnimation,,,,,,,,
+0,SansHead,Default,,,,,,,
+0.8,SansText,hey kid . .,,,,,,,
+0,SansHead,LookLeft,,,,,,,
+0,SansText,what's up ?,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+0,SansText,you made alot of mistakes      in these timelines . .,,,,,,,
+0,SansHead,Wink,,,,,,,
+0,SansText,i had to kill everyone . .     except papyrus of course . .,,,,,,,
+0,SansHead,NoEyes,,,,,,,
+0,SansText,but . . you killed him once      again . .,,,,,,,
+0,SansText,and if you step foward      one more time . .,,,,,,,
+0,SansText,i promise you . .,,,,,,,
+0,SansText,your life will be terrible . .,,,,,,,
+0,SansHead,Wink,,,,,,,
+0,SansTorso,Shrug,,,,
+0,SansText,well; i warned ya . .,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+0,SansTorso,Default,,,,,,,
+0,SansText,i can finally see your      stats . .,,,,,,,
+0,SansHead,Default,,,,,,,
+0,SansText,LV 9 99 ATK 99 DEF . .,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+0,SansText,heh heh heh. .,,,,,,,
+0,SansHead,BlueEye,,,,,,,
+0,SansText,it's your fault i'm       stronger than you . .,,,,,,,
+0,BlackScreen,1,,,,,,,
+0.2,Sound,Flash,,,,,,,
+0.2,Sound,Flash,,,,,,,
+0.2,Sound,HeartSplit,,,,,,,
+0.3,BlackScreen,0,,,,,,,
+0,CombatZoneResizeInstant,239,226,404,391,,,,
+0,HeartTeleport,320,304,,,,,,
+0,HeartMode,0,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+0,SansText,it's a terrible day         outside . .,,,,,,,
+0,SansText,monsters are dead . .,,,,,,,
+0,SansText,flowers are withering . .,,,,,,,
+0,SansText,and in this world . .,,,,,,,
+0,SansHead,NoEyes,,,,,,,
+0,SansText,it's kill or be killed . .,,,,,,,
+0,SansBody,HandDown,,,,,,,
+0,SansHead,BlueEye,,,,,,,
+0,Sound,GasterBlaster,1.4,,,,,,
+0.26666,SansSlam,1,,,,,,,
+0.4,SansBody,HandUp,,,,,,,
+0,SansHead,NoEyes,,,,,,,
+0,BoneStab,1,54,0.16666,1,,,,
+0.4,HeartMode,0,,,,,,,
+0,SansBody,HandRight,,,,,,,
+0,Sound,Ding,,,,,,,
+0.4,Sound,GasterBlaster,1.4,,,,,,
+0.4,SineBones,20,-24,460,25,,,,
+1.6,Sound,GasterBlaster,1.4,,,,,
+0,SansBody,HandLeft,,,,,,,,
+0.4,SineBones,20,24,460,25,,,,
+1.1,Sound,GasterBlaster,1,,,,,,
+0.4,SineBones,20,-24,460,25,,,,
+0,SineBones,20,24,460,25,,,,
+0.4,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,449,366,180,0.333,0.26666
+1.1,SansAnimation,,,,,,,,
+0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0.6,GasterBlaster,1,0,0,191,306,0,0.333,0.26666
+0,GasterBlaster,1,0,0,321,166,90,0.333,0.26666
+0,GasterBlaster,1,0,0,449,306,180,0.333,0.26666
+0,GasterBlaster,1,0,0,321,446,270,0.333,0.26666
+0.6,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0.6,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
+0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
+0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
+0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
+0.6,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0.6,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
+0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
+0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
+0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
+0.6,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0.6,GasterBlaster,1,0,0,191,306,0,0.333,0.26666
+0,GasterBlaster,1,0,0,321,166,90,0.333,0.26666
+0,GasterBlaster,1,0,0,449,306,180,0.333,0.26666
+0,GasterBlaster,1,0,0,321,446,270,0.333,0.26666
+0.6,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
+0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
+0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
+0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
+0.6,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
+0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
+0.4,GasterBlaster,2,0,240,139,306,0,0.666,0.5
+0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
+0,GasterBlaster,2,640,240,321,166,90,0.666,1.53266
+0,GasterBlaster,2,640,240,321,446,270,0.666,1.5
+0,GasterBlaster,1,0,0,189,246,0,1.5,0.26666
+0,GasterBlaster,1,640,480,449,366,180,1.5,0.26666
+4,SansHead,LookLeft,,,,,,,
+0,SansText,huh . . .,,,,,,,
+0,SansTorso,Shrug
+0,SansText,i'm wondering why you            feel like this attack        is hard . .,,,,,,,
+0,EndAttack,,,,
+
+
